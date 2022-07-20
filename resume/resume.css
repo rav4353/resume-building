@@ -1,0 +1,46 @@
+body{
+    background-color: white;
+    margin: auto;
+    width: 80%;
+}
+.header{
+    background-color: black;
+    color: white;
+    padding: 2px;
+    padding-left: 20px;
+}
+.header h1{
+    color: brown;
+}
+.details{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: red;
+    margin: auto;
+    padding: 5px;
+    color: white;
+}
+.h2{
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 32px;
+}
+.redbox{
+    height: 40px;
+    width: 30px;
+    background-color: #ff0000;
+    position: absolute;
+    left: 5px;
+    margin-top: -5px;
+    margin-left: 150px;
+}
+.h2{
+    color: #ff0000;
+}
+h3{
+    margin-left: 500px;
+    margin-bottom: 100px;
+}
+.full{
+    background-color: rgb(134, 175, 161);
+}
